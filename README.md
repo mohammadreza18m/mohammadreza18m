@@ -43,6 +43,6 @@ I work mostly with **React, .NET, Node.js, PostgreSQL, MS SQL, Kafka, Nginx, Doc
 ---
 
 ## 📫 Contact
-- LinkedIn: [[your-linkedin-link]](https://www.linkedin.com/in/mohammadreza-abdollahpour-dev1984/)
+- LinkedIn: https://www.linkedin.com/in/mohammadreza-abdollahpour-dev1984/
 - Email: mohamadrezadevelop1984@gmail.com
 
